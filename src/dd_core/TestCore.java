@@ -67,6 +67,7 @@ public class TestCore{
 			System.out.println("after loading url");
 			driver.manage().timeouts().implicitlyWait(10L, TimeUnit.SECONDS);
 			System.out.println("after timeout");
+			System.out.println("This is first changes");
 			
 							
 		}
